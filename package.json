@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "./build/index.js",
+  "repository": "https://github.com/sameera9th/common.git",
   "types": "./build/index.d.ts",
   "files": [
     "./build/**/*"

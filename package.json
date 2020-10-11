@@ -1,6 +1,6 @@
 {
   "name": "@sam9th/common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./build/index.js",
   "repository": "https://github.com/sameera9th/common.git",
